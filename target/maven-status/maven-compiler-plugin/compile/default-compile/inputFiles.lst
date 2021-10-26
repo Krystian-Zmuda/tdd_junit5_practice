@@ -1,0 +1,12 @@
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\simple\Calculator.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoItemDescriptionTooLongException.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\core\TodoItemValidator.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\interfaces\StatusChangable.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\item\TodoItem.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\enums\ItemStatus.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoItemNullDescriptionException.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\list\TodoList.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoItemValidationException.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoItemAlreadyCompletedException.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoListTitleException.java
+C:\QAA Academy\tdd_junit5_practice\src\main\java\pl\qaaacademy\todo\exceptions\TodoListItemTitleException.java
